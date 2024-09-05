@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-meathumanbankteller-dev-d71c4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::058264125602:role/amplify-meathumanbankteller-dev-d71c4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::058264125602:role/amplify-meathumanbankteller-dev-d71c4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-meathumanbankteller-dev-d71c4-deployment",
+      "UnauthRoleName": "amplify-meathumanbankteller-dev-d71c4-unauthRole",
+      "StackName": "amplify-meathumanbankteller-dev-d71c4",
+      "StackId": "arn:aws:cloudformation:us-east-1:058264125602:stack/amplify-meathumanbankteller-dev-d71c4/0348e860-6afb-11ef-8286-12486e875f4f",
+      "AmplifyAppId": "d1r8qczbf83xmh"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
